@@ -1,0 +1,6 @@
+framework module PodTest2 {
+  umbrella header "PodTest2-umbrella.h"
+
+  export *
+  module * { export * }
+}
